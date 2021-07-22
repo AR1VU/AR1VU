@@ -1,4 +1,6 @@
-# I'm AR1VU!
+# Hi There!
+<h3>My name is AbdulRahman Maniar a.k.a AR1VU. I'm in 8th grade and I love games and programming.
+I am still learning and have tried my hands on HTML, JavaScript, C++ and NodeJS.</h3>
 
 <br>🔭 I’m currently working on <b>My Website</b>
 <br>🌱 I’m currently learning <b>Python</b>
