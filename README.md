@@ -1,5 +1,5 @@
 # Hi There!
-<h3>My name is AbdulRahman Maniar a.k.a AR1VU. I'm in 9th grade and I love games and programming.
+<h3>My name is AbdulRahman Maniar a.k.a AR1VU. I'm in 10<sup>th</sup> grade and I love games and programming.
 I am still learning and have tried my hands on HTML, JavaScript, C++ and NodeJS.</h3>
 
 <br>🔭 I’m currently working on <b>My Website</b>
