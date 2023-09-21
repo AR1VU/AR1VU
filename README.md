@@ -3,7 +3,7 @@
 I am still learning and have tried my hands on HTML, JavaScript, C++ and NodeJS.</h3>
 
 <br>🔭 I’m currently working on <b>My Website</b>
-<br>🌱 I’m currently learning <b>C++</b>
+<br>🌱 I’m currently learning <b>JavaScript</b>
 <br>🤔 I’m looking for help with <b>Translating a whole website to a different Language</b>
 <br>💬 Ask me about <b>Web Development</b>
 <br>📫 How to reach me: <b>ar1vu@outlook.com</b>
